@@ -21,5 +21,4 @@ A fun and interactive memory game built with **HTML, CSS, and JavaScript**. Flip
 5. Your time and moves are displayed as you play.
 
 ## 🖥️ Live Demo
-👉 **[Play the Game]([https://your-live-demo-link.com/](https://kishensjain.github.io/memory-game/))**
-
+👉 **[Play the Game](https://kishensjain.github.io/memory-game/)**
